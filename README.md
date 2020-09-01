@@ -51,5 +51,5 @@ So the astronaut needs to repair his spaceship while dodges asteroids and enemy 
   3. Rubens Barros de Almeida (Artist)
 
   #### Links:
-  1. [Projeto in GGJ website](https://globalgamejam.org/2020/games/astronauts-bad-day-0)
+  1. [Project in GGJ website](https://globalgamejam.org/2020/games/astronauts-bad-day-0)
   2. [Executable](https://ggj.s3.amazonaws.com/games/2020/02/225297/exec/Zexck/An%20Astronaut%20Bad%20Day.zip)
