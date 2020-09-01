@@ -1,6 +1,6 @@
 # An-Astronaut-Bad-Day-Alpha
 
-![Game Title](https://github.com/Andre220/An-Astronaut-Bad-Day-Alpha/Promocional/GameTitle.png)
+![Game Title](https://github.com/Andre220/An-Astronaut-Bad-Day-Alpha/blob/master/Promocional/GameTitle.png)
 
 ## Português:
 
